@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 
 # Project
-* Fake-EmoReact-2021-Challenge(NLP、BERT): https://github.com/linzino7/Fake-EmoReact-2021-Challenge
-* image segmatation(MaskRCNN):https://github.com/linzino7/Fast_RCNN_mmdet
+* Fake-EmoReact-2021-Challenge(NLP, BERT): https://github.com/linzino7/Fake-EmoReact-2021-Challenge
+* image segmatation(MaskRCNN): https://github.com/linzino7/Fast_RCNN_mmdet
 * Digits Object detection(YOLOv4): https://github.com/linzino7/pytorch-YOLOv4
-* 3X super resolution (RCAN):https://github.com/linzino7/pytorch_super_resolution_RCAN_BasicSR
+* 3X super resolution (RCAN): https://github.com/linzino7/pytorch_super_resolution_RCAN_BasicSR
+* Analyzing_NYC_Taxi_Data( Hadoop, Spark, Mapreduce, K-mean): https://github.com/linzino7/Analyzing_NYC_Taxi_Data
